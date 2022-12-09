@@ -1,0 +1,15 @@
+li{
+   padding-top: 15px;
+   list-style-type: none;
+}
+li.r{
+    color: red;
+}
+/* body{
+    margin: 0px;
+    padding: 0px;
+}
+table{
+    padding: 0;
+    margin: 0%;
+} */
